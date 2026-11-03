@@ -1,0 +1,1 @@
+SEATSCAPE v68: A-row front parapet top lowered 0.05 model units based on seated-view reference. B/C/D parapets, stair junctions, seats, camera and all other geometry unchanged. Actual cm scale unverified.
